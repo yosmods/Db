@@ -1,1 +1,7 @@
-# Db
+{
+  "tokens": [
+    "Botz-Gila V1.0",
+    "8059431986:AAEN4rfx_R9PccTRrlJCpOIzcgijiGBNMFY",
+    " 8232718384:AAFHRgG6wdZ3HpG0d-SR8KmeYqebP-CwYnk"
+  ]
+}
